@@ -41,7 +41,7 @@ The dashboard provides answers to the following:
 
 | File Name                               | Description                                      |
 |-----------------------------------------|--------------------------------------------------|
-| [Sales Analysis - Amazon Products.pbix](./Sales%20Analysis%20-%20Amazon%20Products.pbix) | Power BI dashboard project file |
+| [Sales Analysis - Amazon Products.pbix](./Sales%20Analysis%20-%20Amazon%20Products.pbix) | Power BI dashboard - pbix file |
 | [Amazon_Combined_Data.xlsx](./Amazon_Combined_Data.xlsx)             | Cleaned dataset used for data modeling           |
 | [Amazon Sales Dashboard Screenshot.png](./Amazon%20Sales%20Dashboard%20Screenshot.png) | Dashboard preview screenshot                     |
 
